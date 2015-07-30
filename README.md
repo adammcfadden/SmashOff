@@ -3,6 +3,9 @@
 ###Description
 This app allows users to add two characters to a "Smash Off" the characters can then be voted on to see who will win. This app was built to practice using AJAX.
 
+To follow along and build your own version of this app go to <a href="https://www.learnhowtoprogram.com/lessons/would-you-rather-monday-tuesday-classwork" target="#">LearnHowToProgram</a>
+
+
 ###To open the site locally run the following code:
 
 ```
